@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Montserrat|Roboto:100,300,400,500,700&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/upper-banner.css");
+
+body {
+	font-family: 'Montserrat', sans-serif;	
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+#free-quote {
+	box-shadow: 0px -5px 10px #E2E2E2;
+}
